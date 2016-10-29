@@ -10,7 +10,7 @@ namespace Doodads
 	/// <summary>
 	/// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 1.22
 	/// </summary>
-	[ApiVersion(1, 22)]
+	[ApiVersion(1, 25)]
 	public class DoodadsPlugin : TerrariaPlugin
 	{
 		/// <summary>
